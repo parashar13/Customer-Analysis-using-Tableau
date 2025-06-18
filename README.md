@@ -33,3 +33,4 @@ Revenue per category per gender
 Overall, a Customer Analysis can help businesses gain a competitive advantage by understanding their customers better and providing them with personalized experiences that meet their needs and expectations.
 
 Tableau Public Link to access the workbook:
+https://public.tableau.com/app/profile/parashar.srivatsa.poralla/viz/customeranalysis_17502512168540/Story1?publish=yes
